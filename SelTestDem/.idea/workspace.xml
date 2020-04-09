@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5ea0b10-8594-44da-8867-35ed4f33def2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZEo3wT56q3T60yfyGlMqZU2UuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/guice-3.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49655172" />
+  </component>
+  <component name="RunManager" selected="Application.PropertiesTest">
+    <configuration name="PropertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.PropertiesTest" />
+      <module name="SelTestDem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumEasyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.SeleniumEasyDemo" />
+      <module name="SelTestDem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolSelenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.ToolSelenium" />
+      <module name="SelTestDem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationDemo.reservationTestWithFromDateGreaterThanToDate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelTestDem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Demo" />
+      <option name="MAIN_CLASS_NAME" value="Demo.AutomationDemo" />
+      <option name="METHOD_NAME" value="reservationTestWithFromDateGreaterThanToDate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationDemo.reservationTestWithSameToAndFromPlace" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelTestDem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Demo" />
+      <option name="MAIN_CLASS_NAME" value="Demo.AutomationDemo" />
+      <option name="METHOD_NAME" value="reservationTestWithSameToAndFromPlace" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PropertiesTest" />
+        <item itemvalue="Application.SeleniumEasyDemo" />
+        <item itemvalue="Application.ToolSelenium" />
+        <item itemvalue="TestNG.AutomationDemo.reservationTestWithFromDateGreaterThanToDate" />
+        <item itemvalue="TestNG.AutomationDemo.reservationTestWithSameToAndFromPlace" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ea0b10-8594-44da-8867-35ed4f33def2" name="Default Changelist" comment="" />
+      <created>1584413418990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584413418990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="27" width="706" height="741" key="#TestingDemo.test" timestamp="1584801189435">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="365" y="27" width="706" height="741" key="#TestingDemo.test/67.27.1299.741@67.27.1299.741" timestamp="1584801189435" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585312028955">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1585312028955" />
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586091037757">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1586091037757" />
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585056577254">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585056577254" />
+    <state width="1253" height="219" key="GridCell.Tab.0.bottom" timestamp="1585312654357">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585312654357" />
+    <state width="1253" height="219" key="GridCell.Tab.0.center" timestamp="1585312654356">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585312654356" />
+    <state width="1253" height="219" key="GridCell.Tab.0.left" timestamp="1585312654355">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585312654355" />
+    <state width="1253" height="219" key="GridCell.Tab.0.right" timestamp="1585312654357">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585312654357" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1585312654359">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585312654359" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1585312654358">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1585312654358" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1585312654358">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1585312654358" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1585312654359">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1585312654359" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1584801410511">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1584801410511" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586267868049">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1586267868049" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1585056580604">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1585056580604" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584633338467">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1584633338467" />
+  </component>
+</project>
