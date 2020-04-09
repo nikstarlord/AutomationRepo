@@ -17,7 +17,7 @@ public class Base {
     public WebDriver initializeDriver() throws IOException {
 
         prop = new Properties();
-        FileInputStream fs = new FileInputStream("/home/nikhil/EndToEndSelenium/src/main/java/resources/data.properties");
+        FileInputStream fs = new FileInputStream("/home/nikhil/AutomationTestingCodes/EndToEndSelenium/src/main/java/resources/data.properties");
         prop.load(fs);
         String browserName = prop.getProperty("browser");
 
